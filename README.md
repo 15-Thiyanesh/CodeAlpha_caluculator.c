@@ -14,4 +14,4 @@ Sample Input:
 Sample Output:
 Addition = 15
 ##output screenshot
-![output](Basic-caluculator program.png)
+![output](caluculatorprogram.png)
